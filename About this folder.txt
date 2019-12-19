@@ -1,0 +1,3 @@
+This folder is to create a directory for git and add files into that.
+
+Created on 12/19/2019
